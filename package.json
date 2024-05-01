@@ -10,7 +10,8 @@
   "author": "Rohan Shrestha",
   "license": "ISC",
   "devDependencies": {
-    "prettier": "^3.0.3"
+    "prettier": "^3.0.3",
+    "vite": "^5.2.10"
   },
   "dependencies": {
     "config": "3.3.1"
